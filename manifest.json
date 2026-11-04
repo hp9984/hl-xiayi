@@ -1,0 +1,16 @@
+{
+  "app": "HL",
+  "version": "1.0.0",
+  "tag": "main",
+  "notes": "Bản đầu tiên",
+  "main": "main.js",
+  "minLoader": 1,
+  "base": "https://raw.githubusercontent.com/Hp9984/hl-xiayi/main/",
+  "files": [
+    {
+      "path": "main.js",
+      "sha256": "937d9485bd40bd46e5ccab1ec54c4d0a672589868947c26768fb10f1056f6543",
+      "size": 75237
+    }
+  ]
+}
