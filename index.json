@@ -1,0 +1,40 @@
+{
+  "ver": 1,
+  "branch": "main",
+  "updated": "2026-11-05T08:19:06.529Z",
+  "note": "75",
+  "notice": "",
+  "stop": false,
+  "stopMsg": "",
+  "minLoader": 1,
+  "screen": [
+    1280,
+    720
+  ],
+  "code": {
+    "file": "scrtKH.js",
+    "sha256": "00517b3b4f476ab406e19ad5f722821d55e163de42ce8eb3676e950129ec3b7e"
+  },
+  "report": null,
+  "files": {
+    "config.json": "95624d854598edddbc438d8714af5abbf228372c02a4def0f39f2262bb7532ca",
+    "learn.json": "dc3f690be107b18d596e0e83fda0f872e3355a123cda4744d2fc91631f2585aa",
+    "tpl/mapTitle.png": "1daeafde5c2d4ff774c3ade028503ac9284df8ecedbd784f7929b35e0603e7ba",
+    "tpl/target.png": "65c9142769f62cd85f7691ae8b031c137b5a7cb15333fa5102ee3632635bb280",
+    "routes/FB75.json": "98c1726847d037ceaf067ab3787ed4fc4141a358ec53a4a46d7153863128ea0e"
+  },
+  "tpl": [
+    "mapTitle.png",
+    "target.png"
+  ],
+  "learn": "learn.json",
+  "boss": [
+    {
+      "level": 75,
+      "file": "routes/FB75.json",
+      "n": 22,
+      "src": "FB75_20261103_1926.json",
+      "tested": "2026-11-05 · 21/22 ✓ · 11.7′"
+    }
+  ]
+}
